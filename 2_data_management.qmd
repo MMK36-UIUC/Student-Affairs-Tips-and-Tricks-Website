@@ -4,42 +4,30 @@ title: "Data Management"
 
 # Which Storage Should I Use?
 
-- Consult the following link (cred. Dr. Beth H.):\
-<https://researchit.illinois.edu/resources/topics/backup-and-storage/data-finder>
-
-
+-   Consult the following link (cred. Dr. Beth H.):\
+    <https://researchit.illinois.edu/resources/topics/backup-and-storage/data-finder>
 
 ## Example: Michael's Workflow
-- I find using a combination of Box and OneDrive efficient. Below I will explain how I use each.
-  - I strongly recommend downloading the Box and OneDrive desktop clients.
-    - <https://www.box.com/resources/downloads>
-    - <https://support.microsoft.com/en-us/office/onedrive-desktop-app-for-windows-579d71c9-fbdd-4d6a-80ba-d0fac3920aac>
 
+-   I find using a combination of Box and OneDrive efficient. Below I will explain how I use each.
+    -   I strongly recommend downloading the Box and OneDrive desktop clients.
+        -   <https://www.box.com/resources/downloads>
+        -   <https://support.microsoft.com/en-us/office/onedrive-desktop-app-for-windows-579d71c9-fbdd-4d6a-80ba-d0fac3920aac>
 
 ### Box
 
-- While OneDrive is anecdotally now FERPA approved, it is not per <https://researchit.illinois.edu/resources/topics/backup-and-storage/data-finder>. 
-- Therefore I currently store data, especially with identifiable information, in Box.
-- Documents (reports, codebook, etc), tables, graphs, etc in Box are static in the sense that I never make direct changes to them.
-
-
+-   While OneDrive is anecdotally now FERPA approved, it is not per <https://researchit.illinois.edu/resources/topics/backup-and-storage/data-finder>.
+-   Therefore I currently store data, especially with identifiable information, in Box.
+-   Documents (reports, codebook, etc), tables, graphs, etc in Box are static in the sense that I never make direct changes to them.
 
 ### OneDrive
 
-- OneDrive (seemingly) handles syncing changes to files at a higher frequency better than does Box. 
-  - Collaboration (e.g. editing MS Word document simultaneously with collaborators) is also easier on OneDrive.
-- So all document editing, coding, producing tables and graphs, etc. are done in OneDrive.
-- Files and folders in OneDrive are periodically copied to Box.
+-   OneDrive (seemingly) handles syncing changes to files at a higher frequency better than does Box.
+    -   Collaboration (e.g. editing MS Word document simultaneously with collaborators) is also easier on OneDrive.
+-   So all document editing, coding, producing tables and graphs, etc. are done in OneDrive.
+-   Files and folders in OneDrive are periodically copied to Box.
 
-
-
-## Desktop Apps for Box and OneDrive
-
-
-
-### Example
-
-When using programming or statistical software,
+### ![workflow](pictures/workflow.png)
 
 ## File Format
 

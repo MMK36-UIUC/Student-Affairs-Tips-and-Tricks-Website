@@ -2,7 +2,6 @@
 title: "Assessment Tools"
 ---
 
-
 # Microsoft Excel
 
 ## Fn: VLOOKUP (Vertical Lookup)
@@ -10,7 +9,17 @@ title: "Assessment Tools"
 credit to Dr. Beth Hoag
 
 # Qualtrics
-- Beth's slides
-  - Since this website is public (despite of the remote chance of someone finding this website), please contact Beth for them.
 
-# Webtools
+-   Beth's slides
+    -   Since this website is public (despite of the remote chance of someone finding this website), please contact Beth for them.
+
+## Preview
+
+-   If a survey is complicated (e.g. complicated display logic and branching), preview may be time-consuming.
+-   You can preview only a question or a block.
+-   If you wanna freely browse while in preview mode without completing forced responses, etc., Tools -> Ignore Validation
+
+![qualtrics-preview-ignore validation](pictures/qualtrics-preview-ignore%20validation.png)
+
+
+Webtools
