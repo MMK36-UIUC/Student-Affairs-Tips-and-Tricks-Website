@@ -18,6 +18,9 @@ Credit to Devin
 
 - ctrl+t
 
+
+
+
 ## Fn: VLOOKUP (Vertical Lookup)
 
 credit to Dr. Beth Hoag
