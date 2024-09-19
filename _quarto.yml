@@ -3,7 +3,7 @@ project:
 
 website:
   title: "Trick or Tips"
-  baseurl: "/Student Affairs-Tips and Tricks-Website"
+  # baseurl: "/Student Affairs-Tips and Tricks-Website"
   navbar:
     left:
       - href: index.qmd
