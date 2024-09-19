@@ -10,5 +10,7 @@ title: "Assessment Tools"
 credit to Dr. Beth Hoag
 
 # Qualtrics
+- Beth's slides
+  - Since this website is public (despite of the remote chance of someone finding this website), please contact Beth for them.
 
 # Webtools

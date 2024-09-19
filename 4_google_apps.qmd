@@ -4,10 +4,23 @@ title: "Google Apps"
 
 ## Generating Google Calendar Events with Google Sheets Cells and Rows
 
-Format a Google Sheets file as the one in the following link:
-https://docs.google.com/spreadsheets/d/11rZJq71bFW5IEldlj3AMY6OPBVhwpdUapR_NdNccjmA/edit?gid=368059972#gid=368059972
+-   I wrote Google Apps Script (JavaScript) code that can create Google Calendar events based on Google Sheets shaped as below:
 
+|          |                          |              |                 |                |              |                |              |              |               |                   |
+|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
+| **Task** | **Subtask**              | **Location** | **Description** | **Start Time** | **End Time** | **Start Date** | **End Date** | **Complete** | **Completed** | **Added?**        |
+| Testing  | Birthday                 | Cancun       | Vacation!       |                |              | 9/19/2024      | 9/19/2024    |              |               | Added to Calendar |
+| Testing  | Professional Development | Clark 323    | Tips and Tricks | 1500           | 1630         | 9/19/2024      | 9/19/2024    |              |               | Added to Calendar |
+| Testing  | Out of office            |              |                 |                |              | 9/20/2024      | 9/25/2024    |              |               | Added to Calendar |
+| Testing  | Some kinda retreat       | Union        | so looong       | 0900           | 1700         | 9/20/2024      | 9/23/2024    |              |               | Added to Calendar |
 
-Also go to:
-https://github.com/MMK36-UIUC/Google-Sheets-to-Calendar/blob/main/Apps%20Script%20Code.js
-and follow instructions
+-   While the Google Sheets need to be formatted as above, different formats may be acceptable with modification of the code so please contact me if you need help (mmkang\@illinois.edu).
+
+-   Format a Google Sheets file as the one in the following link or the above table: <https://docs.google.com/spreadsheets/d/11rZJq71bFW5IEldlj3AMY6OPBVhwpdUapR_NdNccjmA/edit?gid=368059972#gid=368059972>
+
+```{=html}
+<!-- -->
+```
+-   Also go to the link below and follow instructions:
+
+    -   <https://github.com/MMK36-UIUC/Google-Sheets-to-Calendar/blob/main/Apps%20Script%20Code.js>
