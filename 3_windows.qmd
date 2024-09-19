@@ -11,7 +11,7 @@ title: "Windows"
 
 ### Show Desktop
 - Windows + d
-- 
+- Windows + ctrl + d
 
 
 

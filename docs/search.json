@@ -144,7 +144,7 @@
     "href": "3_windows.html",
     "title": "Windows",
     "section": "",
-    "text": "Windows + v\n\n\n\n\n\n\n\n\nWindows + d"
+    "text": "Windows + v\n\n\n\n\n\n\n\n\nWindows + d\nWindows + ctrl + d"
   },
   {
     "objectID": "3_windows.html#copy-and-paste",
@@ -158,6 +158,6 @@
     "href": "3_windows.html#desktop",
     "title": "Windows",
     "section": "",
-    "text": "Windows + d"
+    "text": "Windows + d\nWindows + ctrl + d"
   }
 ]
