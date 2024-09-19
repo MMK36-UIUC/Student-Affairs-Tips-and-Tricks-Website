@@ -4,6 +4,20 @@ title: "Assessment Tools"
 
 # Microsoft Excel
 
+## Paste Functions
+
+Credit to Devin
+
+![](images/excel-paste.png){width="400"}
+
+### Paste values only
+
+- ctrl+shift+v
+
+### Transpose
+
+- ctrl+t
+
 ## Fn: VLOOKUP (Vertical Lookup)
 
 credit to Dr. Beth Hoag
@@ -21,6 +35,6 @@ credit to Dr. Beth Hoag
 
 -   If you wanna freely browse while in preview mode without completing forced responses, etc., Tools -\> Ignore Validation
 
-![qualtrics-preview-ignore validation](pictures/qualtrics-preview-ignore%20validation.png)
+![qualtrics-preview-ignore validation](pictures/qualtrics-preview-ignore%20validation.png){width="400"}
 
 # Webtools
