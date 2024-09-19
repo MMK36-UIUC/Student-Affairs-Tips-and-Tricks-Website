@@ -2,11 +2,20 @@
 title: "Data Management"
 ---
 
-## Which Storage Should I Use?
+# Which Storage Should I Use?
 
-Consult following https://researchit.illinois.edu/resources/topics/backup-and-storage/data-finder (cred. Dr. Beth H.)
+Consult the following link (cred. Dr. Beth H.):\
+<https://researchit.illinois.edu/resources/topics/backup-and-storage/data-finder>
+
+## Example: Michael's Workflow
+
+I find using a combination of Box and OneDrive efficient. OneDrive (seemingly) handles syncing high(er) frequency changes to files better than does Box.
 
 ## Desktop Apps for Box and OneDrive
+
+<https://www.box.com/resources/downloads>
+
+<https://support.microsoft.com/en-us/office/onedrive-desktop-app-for-windows-579d71c9-fbdd-4d6a-80ba-d0fac3920aac>
 
 ### Example
 
@@ -18,20 +27,25 @@ When using programming or statistical software,
 
 Many administrative data (e.g. CPS) are also provided in .sav (SPSS), .dta (Stata), .sas7bdat (SAS).
 
-|                          |   CSV   | XSLX  |
-|--------------------------|:-------:|:-----:|
-| Size                     | Small\* | Big\* |
-| Processing Speed         |  Fast   |       |
-| Multiple Sheets          |   No    |  Yes  |
-| Formatting (Colors, etc) |   No    |  Yes  |
-|                          |         |       |
+|                             |   CSV   | XSLX  |
+|-----------------------------|:-------:|:-----:|
+| Size                        | Small\* | Big\* |
+| Processing Speed            |  Fast   | Slow  |
+| Multiple Sheets             |   No    |  Yes  |
+| Formatting (Colors, etc)    |   No    |  Yes  |
+| Analysis (Fns, graphs, etc) | No\*\*  |  Yes  |
 
-\*For larger raw data, csv may be bigger, but still processed at a faster speed. \# D
+::: {style="font-size: 12px;"}
+notes: \* For larger raw data, csv may be bigger, but still processed at a faster speed.  \*\* When csv files are open in MS Excel, functions and graphs can be made but they are not saved unless the file is converted to xlsx
+:::
 
-Using R, exporting data (115,112 x 179 dimension) in either csv or xlsx format to OneDrive and Box:
+For instance, using R, exporting data (115,112 x 179 dimension) in either csv or xlsx format to a OneDrive folder and a Box folder consumed the following time (s):
 
 |          |  CSV  | XSLX  |
 |----------|:-----:|:-----:|
 | OneDrive | 12.82 | 26.40 |
 | Box      | 16.03 | 30.52 |
-*average of 100 iterations shown
+
+::: {style="font-size: 12px;"}
+notes: *notes*: average of 100 iterations shown
+:::
