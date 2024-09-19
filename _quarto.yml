@@ -5,7 +5,7 @@ website:
   title: "Trick or Tips"
   navbar:
     left:
-      - href: 0_index.qmd
+      - href: index.qmd
         text: Home
       - href: 1_assessment_tools.qmd
       - href: 2_data_management.qmd
