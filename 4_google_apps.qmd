@@ -6,6 +6,7 @@ title: "Google Apps"
 
 -   I wrote Google Apps Script (JavaScript) code that can create Google Calendar events based on Google Sheets shaped as below:
 
+::: {style="font-size: 18px;"}
 |          |                          |              |                 |                |              |                |              |              |               |                   |
 |-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
 | **Task** | **Subtask**              | **Location** | **Description** | **Start Time** | **End Time** | **Start Date** | **End Date** | **Complete** | **Completed** | **Added?**        |
@@ -13,6 +14,7 @@ title: "Google Apps"
 | Testing  | Professional Development | Clark 323    | Tips and Tricks | 1500           | 1630         | 9/19/2024      | 9/19/2024    |              |               | Added to Calendar |
 | Testing  | Out of office            |              |                 |                |              | 9/20/2024      | 9/25/2024    |              |               | Added to Calendar |
 | Testing  | Some kinda retreat       | Union        | so looong       | 0900           | 1700         | 9/20/2024      | 9/23/2024    |              |               | Added to Calendar |
+:::
 
 -   While the Google Sheets need to be formatted as above, different formats may be acceptable with modification of the code so please contact me if you need help (mmkang\@illinois.edu).
 
