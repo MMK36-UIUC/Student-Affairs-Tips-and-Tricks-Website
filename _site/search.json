@@ -74,7 +74,7 @@
     "href": "2_data_management.html#file-format",
     "title": "Data Management",
     "section": "File Format",
-    "text": "File Format\n\nCSV (Comma-separated values) vs. xlsx (Excel)\nMany administrative data (e.g. CPS) are also provided in .sav (SPSS), .dta (Stata), .sas7bdat (SAS).\n\n\n\n\nCSV\nXSLX\n\n\n\n\nSize\nSmall*\nBig*\n\n\nProcessing Speed\nFast\n\n\n\nMultiple Sheets\nNo\nYes\n\n\nFormatting (Colors, etc)\nNo\nYes\n\n\n\n\n\n\n\n\n*For larger raw data, csv may be bigger, but still processed at a faster speed. # D\nUsing R, exporting data (115,112 x 179 dimension) in either csv or xlsx format to OneDrive and Box:\n\n\n\n\nCSV\nXSLX\n\n\n\n\nOneDrive\n12.82\n26.40\n\n\nBox\n16.03\n27.52"
+    "text": "File Format\n\nCSV (Comma-separated values) vs. xlsx (Excel)\nMany administrative data (e.g. CPS) are also provided in .sav (SPSS), .dta (Stata), .sas7bdat (SAS).\n\n\n\n\nCSV\nXSLX\n\n\n\n\nSize\nSmall*\nBig*\n\n\nProcessing Speed\nFast\n\n\n\nMultiple Sheets\nNo\nYes\n\n\nFormatting (Colors, etc)\nNo\nYes\n\n\n\n\n\n\n\n\n*For larger raw data, csv may be bigger, but still processed at a faster speed. # D\nUsing R, exporting data (115,112 x 179 dimension) in either csv or xlsx format to OneDrive and Box:\n\n\n\n\nCSV\nXSLX\n\n\n\n\nOneDrive\n12.82\n26.40\n\n\nBox\n16.03\n30.52\n\n\n\n*average of 100 iterations shown"
   },
   {
     "objectID": "1_assessment_tools.html",

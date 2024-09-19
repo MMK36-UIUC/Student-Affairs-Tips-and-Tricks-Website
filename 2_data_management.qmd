@@ -33,4 +33,5 @@ Using R, exporting data (115,112 x 179 dimension) in either csv or xlsx format t
 |          |  CSV  | XSLX  |
 |----------|:-----:|:-----:|
 | OneDrive | 12.82 | 26.40 |
-| Box      | 16.03 | 27.52 |
+| Box      | 16.03 | 30.52 |
+*average of 100 iterations shown
