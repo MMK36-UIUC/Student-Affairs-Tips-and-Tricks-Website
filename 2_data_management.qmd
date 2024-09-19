@@ -1,0 +1,36 @@
+---
+title: "Data Management"
+---
+
+## Which Storage Should I Use?
+
+Consult following https://researchit.illinois.edu/resources/topics/backup-and-storage/data-finder (cred. Dr. Beth H.)
+
+## Desktop Apps for Box and OneDrive
+
+### Example
+
+When using programming or statistical software,
+
+## File Format
+
+### CSV (Comma-separated values) vs. xlsx (Excel)
+
+Many administrative data (e.g. CPS) are also provided in .sav (SPSS), .dta (Stata), .sas7bdat (SAS).
+
+|                          |   CSV   | XSLX  |
+|--------------------------|:-------:|:-----:|
+| Size                     | Small\* | Big\* |
+| Processing Speed         |  Fast   |       |
+| Multiple Sheets          |   No    |  Yes  |
+| Formatting (Colors, etc) |   No    |  Yes  |
+|                          |         |       |
+
+\*For larger raw data, csv may be bigger, but still processed at a faster speed. \# D
+
+Using R, exporting data (115,112 x 179 dimension) in either csv or xlsx format to OneDrive and Box:
+
+|          |  CSV  | XSLX  |
+|----------|:-----:|:-----:|
+| OneDrive | 12.82 | 26.40 |
+| Box      | 16.03 | 27.52 |

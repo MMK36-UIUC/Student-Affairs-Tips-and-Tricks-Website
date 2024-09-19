@@ -1,0 +1,48 @@
+project:
+  type: website
+
+website:
+  title: "Trick or Tips"
+  navbar:
+    left:
+      - href: 0_index.qmd
+        text: Home
+      - href: 1_assessment_tools.qmd
+      - href: 2_data_management.qmd
+      - href: 3_windows.qmd
+      - href: 4_google_apps.qmd
+  sidebar:
+    - id: blog
+      collapse-level: 2
+      style: 'floating'
+      search: true
+    # toggle-position: 'center'
+
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-location: left    # Moves the navigation to the left
+
+
+editor: source
+
+# 
+# project:
+#   type: website
+# 
+# website:
+#   navbar:
+#     left:
+#       - index.qmd
+#       - blog.qmd
+# 
+#   sidebar:
+#     - id: blog
+#       collapse-level: 2
+#       contents:
+#         - blog.qmd
+#         - section: "2024"
+#           contents: 2024_posts/*
