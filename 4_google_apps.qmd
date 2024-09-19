@@ -3,12 +3,14 @@ title: "Google Apps"
 ---
 
 ## Generating Google Calendar Events with Google Sheets Cells and Rows
-
+::: {style="font-size: 12px;"}
+Most will work on Outlook, so this could be more for your personal use.
+:::
 -   I wrote Google Apps Script (JavaScript) code that can create Google Calendar events based on Google Sheets shaped as below:
 
 ::: {style="font-size: 18px;"}
 |          |                          |              |                 |                |              |                |              |              |               |                   |
-|----------|--------------------------|--------------|-----------------|----------------|--------------|----------------|--------------|--------------|---------------|-------------------|
+|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
 | **Task** | **Subtask**              | **Location** | **Description** | **Start Time** | **End Time** | **Start Date** | **End Date** | **Complete** | **Completed** | **Added?**        |
 | Testing  | Birthday                 | Cancun       | Vacation!       |                |              | 9/19/2024      | 9/19/2024    |              |               | Added to Calendar |
 | Testing  | Professional Development | Clark 323    | Tips and Tricks | 1500           | 1630         | 9/19/2024      | 9/19/2024    |              |               | Added to Calendar |
