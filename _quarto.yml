@@ -6,7 +6,7 @@ website:
   navbar:
     left:
       - href: index.qmd
-          text: Home
+        text: Home
       - href: 1_assessment_tools.qmd
       - href: 2_data_management.qmd
       - href: 3_windows.qmd
