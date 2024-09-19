@@ -16,19 +16,21 @@ title: "Data Management"
 
 ### Box
 
--   While OneDrive is anecdotally now FERPA approved, it is not per <https://researchit.illinois.edu/resources/topics/backup-and-storage/data-finder>.
+-   While OneDrive is anecdotally now FERPA approved, it still is not per <https://researchit.illinois.edu/resources/topics/backup-and-storage/data-finder>.
 -   Therefore I currently store data, especially with identifiable information, in Box.
 -   Documents (reports, codebook, etc), tables, graphs, etc in Box are static in the sense that I never make direct changes to them.
 
 ### OneDrive
 
--   OneDrive (seemingly) handles syncing changes to files at a higher frequency better than does Box.
+-   OneDrive handles syncing changes to files at a higher frequency better than does Box.
     -   Collaboration (e.g. editing MS Word document simultaneously with collaborators) is also easier on OneDrive.
 -   So all document editing, coding, producing tables and graphs, etc. are done in OneDrive.
 -   Files and folders in OneDrive are periodically copied to Box.
 
 ### ![workflow](pictures/workflow.png)
-
+### ![workflow](pictures/workflow-box-1.png)
+### ![workflow](pictures/workflow-onedrive.png)
+### ![workflow](pictures/workflow-box-2.png)
 ## File Format
 
 ### CSV (Comma-separated values) vs. xlsx (Excel)

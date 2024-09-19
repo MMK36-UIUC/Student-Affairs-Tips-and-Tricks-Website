@@ -16,10 +16,11 @@ credit to Dr. Beth Hoag
 ## Preview
 
 -   If a survey is complicated (e.g. complicated display logic and branching), preview may be time-consuming.
--   You can preview only a question or a block.
--   If you wanna freely browse while in preview mode without completing forced responses, etc., Tools -> Ignore Validation
+
+-   You can preview only a question or a block. ![qualtrics-preview-ignore validation](pictures/qualtrics-preview%20question.png) ![qualtrics-preview-ignore validation](pictures/qualtrics-preview%20block.png)
+
+-   If you wanna freely browse while in preview mode without completing forced responses, etc., Tools -\> Ignore Validation
 
 ![qualtrics-preview-ignore validation](pictures/qualtrics-preview-ignore%20validation.png)
 
-
-Webtools
+# Webtools
