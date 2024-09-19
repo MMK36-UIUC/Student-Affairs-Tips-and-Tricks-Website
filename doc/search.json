@@ -1,0 +1,121 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "The Student Affairs Assessment Committee presents Trick or Tips! This website (that may soon disappear as the creator doesn’t know any rules about hosting websites) shares Committee members’ tips and tricks that they acquired during their tenure at the University of Illinois."
+  },
+  {
+    "objectID": "Assessment_tools.html",
+    "href": "Assessment_tools.html",
+    "title": "Assessment Tools",
+    "section": "",
+    "text": "Microsoft Excel\n\nFn: Vlookup\n\n\n\nQualtrics"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "Data_management.html",
+    "href": "Data_management.html",
+    "title": "Data Management",
+    "section": "",
+    "text": "Consult following https://researchit.illinois.edu/resources/topics/backup-and-storage/data-finder (cred. Dr. Beth H.)"
+  },
+  {
+    "objectID": "Data_management.html#which-storage-should-i-use",
+    "href": "Data_management.html#which-storage-should-i-use",
+    "title": "Data Management",
+    "section": "",
+    "text": "Consult following https://researchit.illinois.edu/resources/topics/backup-and-storage/data-finder (cred. Dr. Beth H.)"
+  },
+  {
+    "objectID": "Data_management.html#desktop-apps-for-box-and-onedrive",
+    "href": "Data_management.html#desktop-apps-for-box-and-onedrive",
+    "title": "Data Management",
+    "section": "Desktop Apps for Box and OneDrive",
+    "text": "Desktop Apps for Box and OneDrive\n\nExample\nWhen using programming or statistical software,"
+  },
+  {
+    "objectID": "Data_management.html#file-format",
+    "href": "Data_management.html#file-format",
+    "title": "Data Management",
+    "section": "File Format",
+    "text": "File Format\n\nCSV (Comma-separated values) vs. xlsx (Excel)\nMany administrative data (e.g. CPS) are also provided in .sav (SPSS), .dta (Stata), .sas7bdat (SAS).\n\n\n\n\nCSV\nXSLX\n\n\n\n\nSize\nSmall*\nBig*\n\n\nProcessing Speed\nFast\n\n\n\nMultiple Sheets\nNo\nYes\n\n\nFormatting (Colors, etc)\nNo\nYes\n\n\n\n\n\n\n\n\n*For larger raw data, csv may be bigger, but still processed at a faster speed. # D\nUsing R, exporting data (115,112 x 179 dimension) in either csv or xlsx format to OneDrive and Box:\n\n\n\n\nCSV\nXSLX\n\n\n\n\nOneDrive\n12.82\n26.40\n\n\nBox\n16.03\n27.52"
+  },
+  {
+    "objectID": "2_data_management.html",
+    "href": "2_data_management.html",
+    "title": "Data Management",
+    "section": "",
+    "text": "Consult following https://researchit.illinois.edu/resources/topics/backup-and-storage/data-finder (cred. Dr. Beth H.)"
+  },
+  {
+    "objectID": "2_data_management.html#which-storage-should-i-use",
+    "href": "2_data_management.html#which-storage-should-i-use",
+    "title": "Data Management",
+    "section": "",
+    "text": "Consult following https://researchit.illinois.edu/resources/topics/backup-and-storage/data-finder (cred. Dr. Beth H.)"
+  },
+  {
+    "objectID": "2_data_management.html#desktop-apps-for-box-and-onedrive",
+    "href": "2_data_management.html#desktop-apps-for-box-and-onedrive",
+    "title": "Data Management",
+    "section": "Desktop Apps for Box and OneDrive",
+    "text": "Desktop Apps for Box and OneDrive\n\nExample\nWhen using programming or statistical software,"
+  },
+  {
+    "objectID": "2_data_management.html#file-format",
+    "href": "2_data_management.html#file-format",
+    "title": "Data Management",
+    "section": "File Format",
+    "text": "File Format\n\nCSV (Comma-separated values) vs. xlsx (Excel)\nMany administrative data (e.g. CPS) are also provided in .sav (SPSS), .dta (Stata), .sas7bdat (SAS).\n\n\n\n\nCSV\nXSLX\n\n\n\n\nSize\nSmall*\nBig*\n\n\nProcessing Speed\nFast\n\n\n\nMultiple Sheets\nNo\nYes\n\n\nFormatting (Colors, etc)\nNo\nYes\n\n\n\n\n\n\n\n\n*For larger raw data, csv may be bigger, but still processed at a faster speed. # D\nUsing R, exporting data (115,112 x 179 dimension) in either csv or xlsx format to OneDrive and Box:\n\n\n\n\nCSV\nXSLX\n\n\n\n\nOneDrive\n12.82\n26.40\n\n\nBox\n16.03\n27.52"
+  },
+  {
+    "objectID": "1_assessment_tools.html",
+    "href": "1_assessment_tools.html",
+    "title": "Assessment Tools",
+    "section": "",
+    "text": "credit to Dr. Beth Hoag"
+  },
+  {
+    "objectID": "1_assessment_tools.html#fn-vlookup",
+    "href": "1_assessment_tools.html#fn-vlookup",
+    "title": "Assessment Tools",
+    "section": "",
+    "text": "credit to Dr. Beth Hoag"
+  },
+  {
+    "objectID": "0_index.html",
+    "href": "0_index.html",
+    "title": "Home",
+    "section": "",
+    "text": "The Student Affairs Assessment Committee presents Trick or Tips! This website (that may soon disappear as the creator doesn’t know any rules about hosting websites) shares Committee members’ tips and tricks that they acquired during their tenure at the University of Illinois."
+  },
+  {
+    "objectID": "4_google_apps.html",
+    "href": "4_google_apps.html",
+    "title": "Google Apps",
+    "section": "",
+    "text": "function button() {\n  var ui = SpreadsheetApp.getUi();\n  ui.createMenu('Create Events')\n      .addItem('Create Events', 'event_create')\n      .addSeparator()\n      .addToUi();\n}\n\n\n\nfunction event_create() {\n\n  // your email here!\n  var calendar_id = \"mmkang@illinois.edu\"; // your email here!\n  // your email here!\n\n  var sheet_tasks = SpreadsheetApp.getActive().getSheetByName('Tasks');\n  var tasks = sheet_tasks.getRange(\"A2:K100\").getValues(); // Adjust range if needed\n\n  for (var i = 0; i &lt; tasks.length; i++) {\n    var i_row = i + 2;\n    var task = tasks[i];\n\n    var task_main = task[0]; // Assuming task is in A\n    var task_sub = task[1]; // Assuming subtask is in B\n    var task_location = task[2]; // Assuming location is in C\n    var task_desc = task[3]; // Assuming description is in D\n    var added = task[10]; // Already added marker\n      Logger.log(added);\n    var task_time_start = task[4]; // Start time\n    var task_time_end = task[5];   // End time\n    var task_date_start = task[6]; // Start date\n    var task_date_end = task[7];   // End date\n  \n    // Check if the event has already been added\n    if (added === \"Added to Calendar\") {\n      Logger.log(\"Skipping: Event already added.\");\n    } else{\n\n      var event_name = task_main + \"-\" + task_sub;\n      var calendar = CalendarApp.getCalendarById(calendar_id);\n\n      // Convert task_date_start and task_date_end to Date objects\n      task_date_start = new Date(task_date_start);\n      task_date_end = new Date(task_date_end);\n\n      // Ensure task_name is not null or empty\n      if (!task_main || !task_sub) {\n        Logger.log(\"Event name missing.\");\n      } else{\n        if (task_time_start && task_time_end) {\n          // Convert task_time_start and task_time_end to HH:mm format\n          var formatted_task_time_start = task_time_start.toString().substring(0, 2) + \":\" + task_time_start.toString().substring(2, 4);\n          var formatted_task_time_end = task_time_end.toString().substring(0, 2) + \":\" + task_time_end.toString().substring(2, 4);\n\n          // Combine date and time\n          var task_start = new Date(task_date_start.toDateString() + \" \" + formatted_task_time_start);\n          var task_end = new Date(task_date_end.toDateString() + \" \" + formatted_task_time_end);\n\n          Logger.log(\"Task with time: \" + task_start + \" - \" + task_end);\n\n          // Create event with time\n          calendar.createEvent(event_name, task_start, task_end, {\n            description: task_desc,\n            location: task_location\n          });\n\n        } else {\n          Logger.log(\"No time specified. Creating an all-day event.\");\n\n          // If the start and end dates are the same, create a single-day event\n          if (task_date_start.getTime() === task_date_end.getTime()) {\n            Logger.log(\"Creating single-day all-day event.\");\n            calendar.createAllDayEvent(event_name, task_date_start, {\n              description: task_desc,\n              location: task_location\n            });\n          } else {\n            Logger.log(\"Creating multi-day all-day event.\");\n            task_date_end.setDate(task_date_end.getDate() + 1); // Extend end date for multi-day all-day event\n            calendar.createAllDayEvent(event_name, task_date_start, task_date_end, {\n              description: task_desc,\n              location: task_location\n            });\n          }\n        }\n\n        // Mark the task as added in the spreadsheet\n        sheet_tasks.getRange(i_row, 11).setValue(\"Added to Calendar\");\n\n      }\n    }\n  }\n}"
+  },
+  {
+    "objectID": "4_google_apps.html#generating-google-calendar-events-with-google-sheets-cells-and-rows",
+    "href": "4_google_apps.html#generating-google-calendar-events-with-google-sheets-cells-and-rows",
+    "title": "Google Apps",
+    "section": "",
+    "text": "function button() {\n  var ui = SpreadsheetApp.getUi();\n  ui.createMenu('Create Events')\n      .addItem('Create Events', 'event_create')\n      .addSeparator()\n      .addToUi();\n}\n\n\n\nfunction event_create() {\n\n  // your email here!\n  var calendar_id = \"mmkang@illinois.edu\"; // your email here!\n  // your email here!\n\n  var sheet_tasks = SpreadsheetApp.getActive().getSheetByName('Tasks');\n  var tasks = sheet_tasks.getRange(\"A2:K100\").getValues(); // Adjust range if needed\n\n  for (var i = 0; i &lt; tasks.length; i++) {\n    var i_row = i + 2;\n    var task = tasks[i];\n\n    var task_main = task[0]; // Assuming task is in A\n    var task_sub = task[1]; // Assuming subtask is in B\n    var task_location = task[2]; // Assuming location is in C\n    var task_desc = task[3]; // Assuming description is in D\n    var added = task[10]; // Already added marker\n      Logger.log(added);\n    var task_time_start = task[4]; // Start time\n    var task_time_end = task[5];   // End time\n    var task_date_start = task[6]; // Start date\n    var task_date_end = task[7];   // End date\n  \n    // Check if the event has already been added\n    if (added === \"Added to Calendar\") {\n      Logger.log(\"Skipping: Event already added.\");\n    } else{\n\n      var event_name = task_main + \"-\" + task_sub;\n      var calendar = CalendarApp.getCalendarById(calendar_id);\n\n      // Convert task_date_start and task_date_end to Date objects\n      task_date_start = new Date(task_date_start);\n      task_date_end = new Date(task_date_end);\n\n      // Ensure task_name is not null or empty\n      if (!task_main || !task_sub) {\n        Logger.log(\"Event name missing.\");\n      } else{\n        if (task_time_start && task_time_end) {\n          // Convert task_time_start and task_time_end to HH:mm format\n          var formatted_task_time_start = task_time_start.toString().substring(0, 2) + \":\" + task_time_start.toString().substring(2, 4);\n          var formatted_task_time_end = task_time_end.toString().substring(0, 2) + \":\" + task_time_end.toString().substring(2, 4);\n\n          // Combine date and time\n          var task_start = new Date(task_date_start.toDateString() + \" \" + formatted_task_time_start);\n          var task_end = new Date(task_date_end.toDateString() + \" \" + formatted_task_time_end);\n\n          Logger.log(\"Task with time: \" + task_start + \" - \" + task_end);\n\n          // Create event with time\n          calendar.createEvent(event_name, task_start, task_end, {\n            description: task_desc,\n            location: task_location\n          });\n\n        } else {\n          Logger.log(\"No time specified. Creating an all-day event.\");\n\n          // If the start and end dates are the same, create a single-day event\n          if (task_date_start.getTime() === task_date_end.getTime()) {\n            Logger.log(\"Creating single-day all-day event.\");\n            calendar.createAllDayEvent(event_name, task_date_start, {\n              description: task_desc,\n              location: task_location\n            });\n          } else {\n            Logger.log(\"Creating multi-day all-day event.\");\n            task_date_end.setDate(task_date_end.getDate() + 1); // Extend end date for multi-day all-day event\n            calendar.createAllDayEvent(event_name, task_date_start, task_date_end, {\n              description: task_desc,\n              location: task_location\n            });\n          }\n        }\n\n        // Mark the task as added in the spreadsheet\n        sheet_tasks.getRange(i_row, 11).setValue(\"Added to Calendar\");\n\n      }\n    }\n  }\n}"
+  },
+  {
+    "objectID": "1_assessment_tools.html#fn-vlookup-vertical-lookup",
+    "href": "1_assessment_tools.html#fn-vlookup-vertical-lookup",
+    "title": "Assessment Tools",
+    "section": "",
+    "text": "credit to Dr. Beth Hoag"
+  }
+]
