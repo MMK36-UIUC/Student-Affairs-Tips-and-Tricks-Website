@@ -1,6 +1,0 @@
----
-title: "Google Apps"
----
-
-# Clipboard
-## Copy and Paste

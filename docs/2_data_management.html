@@ -123,7 +123,9 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#which-storage-should-i-use" id="toc-which-storage-should-i-use" class="nav-link active" data-scroll-target="#which-storage-should-i-use">Which Storage Should I Use?</a></li>
+  <li><a href="#which-storage-should-i-use" id="toc-which-storage-should-i-use" class="nav-link active" data-scroll-target="#which-storage-should-i-use">Which Storage Should I Use?</a>
+  <ul class="collapse">
+  <li><a href="#example-michaels-workflow" id="toc-example-michaels-workflow" class="nav-link" data-scroll-target="#example-michaels-workflow">Example: Michael’s Workflow</a></li>
   <li><a href="#desktop-apps-for-box-and-onedrive" id="toc-desktop-apps-for-box-and-onedrive" class="nav-link" data-scroll-target="#desktop-apps-for-box-and-onedrive">Desktop Apps for Box and OneDrive</a>
   <ul class="collapse">
   <li><a href="#example" id="toc-example" class="nav-link" data-scroll-target="#example">Example</a></li>
@@ -131,6 +133,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#file-format" id="toc-file-format" class="nav-link" data-scroll-target="#file-format">File Format</a>
   <ul class="collapse">
   <li><a href="#csv-comma-separated-values-vs.-xlsx-excel" id="toc-csv-comma-separated-values-vs.-xlsx-excel" class="nav-link" data-scroll-target="#csv-comma-separated-values-vs.-xlsx-excel">CSV (Comma-separated values) vs.&nbsp;xlsx (Excel)</a></li>
+  </ul></li>
   </ul></li>
   </ul>
 </nav>
@@ -161,12 +164,18 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="which-storage-should-i-use" class="level2">
-<h2 class="anchored" data-anchor-id="which-storage-should-i-use">Which Storage Should I Use?</h2>
-<p>Consult following https://researchit.illinois.edu/resources/topics/backup-and-storage/data-finder (cred. Dr.&nbsp;Beth H.)</p>
+<section id="which-storage-should-i-use" class="level1">
+<h1>Which Storage Should I Use?</h1>
+<p>Consult the following link (cred. Dr.&nbsp;Beth H.):<br>
+<a href="https://researchit.illinois.edu/resources/topics/backup-and-storage/data-finder" class="uri">https://researchit.illinois.edu/resources/topics/backup-and-storage/data-finder</a></p>
+<section id="example-michaels-workflow" class="level2">
+<h2 class="anchored" data-anchor-id="example-michaels-workflow">Example: Michael’s Workflow</h2>
+<p>I find using a combination of Box and OneDrive efficient. OneDrive (seemingly) handles syncing high(er) frequency changes to files better than does Box. So all document editing, coding, producing tables and graphs, etc. are done in OneDrive and the files and folders in OneDrive are periodically</p>
 </section>
 <section id="desktop-apps-for-box-and-onedrive" class="level2">
 <h2 class="anchored" data-anchor-id="desktop-apps-for-box-and-onedrive">Desktop Apps for Box and OneDrive</h2>
+<p><a href="https://www.box.com/resources/downloads" class="uri">https://www.box.com/resources/downloads</a></p>
+<p><a href="https://support.microsoft.com/en-us/office/onedrive-desktop-app-for-windows-579d71c9-fbdd-4d6a-80ba-d0fac3920aac" class="uri">https://support.microsoft.com/en-us/office/onedrive-desktop-app-for-windows-579d71c9-fbdd-4d6a-80ba-d0fac3920aac</a></p>
 <section id="example" class="level3">
 <h3 class="anchored" data-anchor-id="example">Example</h3>
 <p>When using programming or statistical software,</p>
@@ -194,7 +203,7 @@ ul.task-list li input[type="checkbox"] {
 <tr class="even">
 <td>Processing Speed</td>
 <td style="text-align: center;">Fast</td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;">Slow</td>
 </tr>
 <tr class="odd">
 <td>Multiple Sheets</td>
@@ -207,14 +216,16 @@ ul.task-list li input[type="checkbox"] {
 <td style="text-align: center;">Yes</td>
 </tr>
 <tr class="odd">
-<td></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
+<td>Analysis (Fns, graphs, etc)</td>
+<td style="text-align: center;">No**</td>
+<td style="text-align: center;">Yes</td>
 </tr>
 </tbody>
 </table>
-<p>*For larger raw data, csv may be bigger, but still processed at a faster speed. # D</p>
-<p>Using R, exporting data (115,112 x 179 dimension) in either csv or xlsx format to OneDrive and Box:</p>
+<div style="font-size: 12px;">
+<p>notes: * For larger raw data, csv may be bigger, but still processed at a faster speed. &nbsp;** When csv files are open in MS Excel, functions and graphs can be made but they are not saved unless the file is converted to xlsx</p>
+</div>
+<p>For instance, using R, exporting data (115,112 x 179 dimension) in either csv or xlsx format to a OneDrive folder and a Box folder consumed the following time (s):</p>
 <table class="caption-top table">
 <thead>
 <tr class="header">
@@ -236,9 +247,12 @@ ul.task-list li input[type="checkbox"] {
 </tr>
 </tbody>
 </table>
-<p>*average of 100 iterations shown</p>
+<div style="font-size: 12px;">
+<p>notes: <em>notes</em>: average of 100 iterations shown</p>
+</div>
 
 
+</section>
 </section>
 </section>
 

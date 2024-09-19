@@ -9,7 +9,7 @@ Consult the following link (cred. Dr. Beth H.):\
 
 ## Example: Michael's Workflow
 
-I find using a combination of Box and OneDrive efficient. OneDrive (seemingly) handles syncing high(er) frequency changes to files better than does Box.
+I find using a combination of Box and OneDrive efficient. OneDrive (seemingly) handles syncing high(er) frequency changes to files better than does Box. So all document editing, coding, producing tables and graphs, etc. are done in OneDrive and the files and folders in OneDrive are periodically 
 
 ## Desktop Apps for Box and OneDrive
 
